@@ -1,8 +1,11 @@
 # Graphithium
 
-Graphithium is an open-source project, I'm currently working on it so be patient.
+Graphithium is an open-source project, I'm currently working alone on it so be patient. Graphithium is a web app developed using Vue.js and Node.js, it is essentially a web app-based alternative to Obsidian !
 
-Graphithium is a web app developed using Vue.js and Node.js, it is essentially a web app-based alternative to Obsidian !
+# Installation
+
+to strat the projet --> `rpm run dev`
+
 
 # Features
 
@@ -25,4 +28,13 @@ A section below will be implemented which allow you to change your password (you
 
 AI doesn't have any place in this project, not a single line of AI-generated code will be implement without any verification and a minimum of understanding.
 
+# Workflow
+
+Branche `main` --> Latest stable version
+Branche `dev` --> Latest version (possibly unstable)
+Branche `dev-alex` --> Béta versions (Not recommended for production)
+
+
 # 
+
+
